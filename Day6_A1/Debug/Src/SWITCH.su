@@ -1,0 +1,4 @@
+../Inc/core_cm4.h:1688:22:__NVIC_EnableIRQ	16	static
+../Src/SWITCH.c:5:6:SwitchInit	16	static
+../Src/SWITCH.c:17:5:SwitchGetState	24	static
+../Src/SWITCH.c:26:6:EXTI0_ITRHandler	4	static

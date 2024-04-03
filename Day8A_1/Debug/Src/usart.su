@@ -1,0 +1,5 @@
+../Src/usart.c:16:6:uartinit	16	static
+../Src/usart.c:47:6:uartputch	16	static
+../Src/usart.c:53:9:uartgetch	16	static
+../Src/usart.c:60:6:uartputs	24	static
+../Src/usart.c:67:6:uartgets	24	static
