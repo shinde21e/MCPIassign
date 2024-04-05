@@ -1,0 +1,3 @@
+../Src/timer.c:12:6:TimerInit	16	static
+../Src/timer.c:19:6:TimerDelayMs	24	static
+../Src/timer.c:39:6:TIM7_DAC_IRQHandler	16	static
